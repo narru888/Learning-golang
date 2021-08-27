@@ -6,3 +6,18 @@ go 学习之路
 记录Go 语言学习基础和第三方基础组件使用
 
 > 参考 template模板编写笔记
+
+
+# 使用教程
+
+1）创建并切换到新分支
+
+git checkout -b fu
+
+2）切换分支
+git checkout master
+git checkout deng
+git checkout fu
+
+3) 查看分支
+git branch

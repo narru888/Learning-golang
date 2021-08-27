@@ -21,3 +21,7 @@ git checkout fu
 
 3) 查看分支
 git branch
+
+
+4) 上传分支
+ git push --set-upstream origin deng

@@ -9,7 +9,7 @@ go 学习之路
 
 
 # 使用教程
-
+```    
 1）创建并切换到新分支
 
 git checkout -b fu
@@ -24,4 +24,8 @@ git branch
 
 
 4) 上传分支
+
  git push --set-upstream origin deng
+
+5) 合并分支
+```
